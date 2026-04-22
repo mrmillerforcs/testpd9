@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "flag")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, 123!")
+            Text("Hello, 456!")
             Text("yay github!")
             Image(systemName: "mail")
         }
